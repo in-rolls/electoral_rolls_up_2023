@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use these data or scripts, please cite them as below."
+title: "Uttar Pradesh Electoral Rolls 2023"
+type: dataset
+date-released: 2024-03-25
+authors:
+  - family-names: "Sood"
+    given-names: "Gaurav"
+  - family-names: "Laohaprapanon"
+    given-names: "Suriyan"
+repository-code: "https://github.com/in-rolls/electoral_rolls_up_2023"
+identifiers:
+  - type: doi
+    value: "10.7910/DVN/OG47IV"
+    description: "Indian Electoral Roll PDF Corpus on Harvard Dataverse (restricted access)."
+license: MIT
+keywords:
+  - electoral rolls
+  - India
+  - Uttar Pradesh
+  - voter lists
