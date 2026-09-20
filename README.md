@@ -58,8 +58,10 @@ Code is MIT. The rolls are published by the Chief Electoral Officer, Uttar Prade
 
 ## 🔗 Adjacent Repositories
 
+- [in-rolls/electoral_rolls_bihar_2020](https://github.com/in-rolls/electoral_rolls_bihar_2020) — Bihar Electoral Rolls 2020
+- [in-rolls/electoral_rolls](https://github.com/in-rolls/electoral_rolls) — PDFs of Indian Electoral Rolls
+- [in-rolls/parse_unsearchable_rolls](https://github.com/in-rolls/parse_unsearchable_rolls) — Parse Unsearchable Electoral Rolls
+- [in-rolls/parse_searchable_rolls](https://github.com/in-rolls/parse_searchable_rolls) — Parse Searchable Electoral Rolls
 - [in-rolls/mnrega_social](https://github.com/in-rolls/mnrega_social) — MNREGA Social Audit Data
-- [in-rolls/quota](https://github.com/in-rolls/quota) — Effects of Randomly Assigned Reservations for Women Leaders in Indian Local Government on Allocation and Development Outcomes
-- [in-rolls/local_elections_kerala](https://github.com/in-rolls/local_elections_kerala) — Kerala Local Government Seat Reservation Data and Winner Attributes
-- [in-rolls/local_elections_up](https://github.com/in-rolls/local_elections_up) — UP Local Election Data --- GP and ULB. Seat reservation, winner, and candidates for some elections
-- [in-rolls/local_elections_bihar](https://github.com/in-rolls/local_elections_bihar) — Candidate Info. + Valid Votes Won by Cands. in the 2016 Bihar Panchayat Elections
+
+✨ _Powered by [Adjacent](https://github.com/gojiplus/adjacent)_ 🚀
