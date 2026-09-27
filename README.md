@@ -60,8 +60,8 @@ Code is MIT. The rolls are published by the Chief Electoral Officer, Uttar Prade
 
 - [in-rolls/electoral_rolls_bihar_2020](https://github.com/in-rolls/electoral_rolls_bihar_2020) — Bihar Electoral Rolls 2020
 - [in-rolls/electoral_rolls](https://github.com/in-rolls/electoral_rolls) — PDFs of Indian Electoral Rolls
-- [in-rolls/parse_unsearchable_rolls](https://github.com/in-rolls/parse_unsearchable_rolls) — Parse Unsearchable Electoral Rolls
 - [in-rolls/parse_searchable_rolls](https://github.com/in-rolls/parse_searchable_rolls) — Parse Searchable Electoral Rolls
-- [in-rolls/mnrega_social](https://github.com/in-rolls/mnrega_social) — MNREGA Social Audit Data
+- [in-rolls/parse_unsearchable_rolls](https://github.com/in-rolls/parse_unsearchable_rolls) — Parse Unsearchable Electoral Rolls
+- [in-rolls/elector_count](https://github.com/in-rolls/elector_count) — Estimate the total number of electors in a state by counting the number of pages in all the electoral rolls
 
 ✨ _Powered by [Adjacent](https://github.com/gojiplus/adjacent)_ 🚀
