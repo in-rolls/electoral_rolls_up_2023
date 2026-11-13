@@ -10,7 +10,7 @@ Every electoral-roll PDF the Chief Electoral Officer, Uttar Pradesh listed at [c
 | File | Where | What |
 |---|---|---|
 | `data/up-2023-electoral-rolls.csv` | this repository | 161,203 rows, one per part: district, constituency, part number, polling station, and the portal link to its PDF |
-| `up-electral-roll-001.7z` ... `up-electral-roll-323.7z` | Dataverse, restricted | the PDFs, 323 archives totalling 627 GiB, uploaded March 2024 |
+| `up-electral-roll-001.7z` ... `up-electral-roll-323.7z` | Dataverse, restricted | the PDFs, 323 archives totaling 627 GiB, uploaded March 2024 |
 
 The archive names carry a typo (`electral`) from upload; they are kept as published so existing references still resolve. The archives differ in size (the last is 9 MB), so each appears to be a standalone 7z archive, not one volume of a split archive; extract each with `7z x up-electral-roll-NNN.7z`. Inside, PDFs are named `<District>_<AC_Number>_<Part_Number>.pdf` (set in `02-download_pdf.py`), which joins back to the CSV on those three columns.
 
